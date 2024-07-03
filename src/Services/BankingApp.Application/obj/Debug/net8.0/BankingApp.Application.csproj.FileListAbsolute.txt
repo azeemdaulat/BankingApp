@@ -1,0 +1,15 @@
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.csproj.AssemblyReference.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.AssemblyInfoInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.AssemblyInfo.cs
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.csproj.CoreCompileInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\bin\Debug\net8.0\BankingApp.Application.deps.json
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\bin\Debug\net8.0\BankingApp.Application.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\bin\Debug\net8.0\BankingApp.Application.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\bin\Debug\net8.0\BankingApp.Domain.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\bin\Debug\net8.0\BankingApp.Domain.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.csproj.CopyComplete
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\refint\BankingApp.Application.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\BankingApp.Application.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Application\obj\Debug\net8.0\ref\BankingApp.Application.dll

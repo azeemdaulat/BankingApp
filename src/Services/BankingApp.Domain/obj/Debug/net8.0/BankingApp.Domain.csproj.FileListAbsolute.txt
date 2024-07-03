@@ -1,0 +1,11 @@
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.AssemblyInfoInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.AssemblyInfo.cs
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.csproj.CoreCompileInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\bin\Debug\net8.0\BankingApp.Domain.deps.json
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\bin\Debug\net8.0\BankingApp.Domain.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\bin\Debug\net8.0\BankingApp.Domain.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\refint\BankingApp.Domain.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\BankingApp.Domain.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Domain\obj\Debug\net8.0\ref\BankingApp.Domain.dll

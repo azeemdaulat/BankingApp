@@ -1,0 +1,17 @@
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.csproj.AssemblyReference.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.AssemblyInfoInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.AssemblyInfo.cs
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Infrastructure.deps.json
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Infrastructure.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Infrastructure.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Application.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Domain.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Application.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\bin\Debug\net8.0\BankingApp.Domain.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.csproj.CopyComplete
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\refint\BankingApp.Infrastructure.dll
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\BankingApp.Infrastructure.pdb
+D:\training\Assignment\BankingApp\BankingApp\src\Services\BankingApp.Infrastructure\obj\Debug\net8.0\ref\BankingApp.Infrastructure.dll

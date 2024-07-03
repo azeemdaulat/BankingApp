@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "snnsX+4UxDEBw41e8gMaJexJaT+8DOcGm4weEEpP+60=",
+  "Source": "BankingApp.Api",
+  "BasePath": "_content/BankingApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
